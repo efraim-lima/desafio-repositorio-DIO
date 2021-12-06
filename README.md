@@ -4,7 +4,7 @@
 
 
 ###Caso queiram me encontrar estou no linkedin,
-[Me chama aqui!!!](https://www.linkedin.com/in/efraimlima/)
+[me chama aqui!!!](https://www.linkedin.com/in/efraimlima/)
 
 
 ###Estou trabalhando na parte de Marketing (sou gestor de mídias) e de Vídeo Marketing (auxiliando canais de YouTube e afins), meu projeto privado aqui no Git tem este intuito, de automatizar processos deste setor...tem necessidade desses serviços? Podemos negociar ;) | Tem interesse pelo projeto? Podemos conversar rsrsrs.
