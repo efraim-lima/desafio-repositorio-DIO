@@ -3,10 +3,10 @@
 
 ##Aqui você encontrará arquivos com linguagens:
 
-###HTML5
-###CSS3
-###JavasCript (algo básico, em processo de aprendizado)
-###Three.js (Já consigo fazer algumas brincadeiras com imagens 3D [GLTF] com Three.js)
+HTML5
+CSS3
+JavasCript (algo básico, em processo de aprendizado)
+Three.js (Já consigo fazer algumas brincadeiras com imagens 3D (GLTF) com Three.js)
 
 ###Este faz ṕarte de meus primeiros projetos depois de um ano aprendendo Python, aqui tentarei inserir todas minha habilidades (inclusive em Python e Estatística), mas poderão ter funcionalidades simples e pouco aprofundadas, estou aprendendo a desenvolver ainda...enquanto estudo e trabalho rsrsrs por isso peço perdão por possíveis erros. 
 
